@@ -1,0 +1,35 @@
+$--theme-color: #00a870; // 主题色
+// base color
+$blue:#324157;
+$light-blue:#3A71A8;
+$red:#C03639;
+$pink: #E65D6E;
+$green: #30B08F;
+$tiffany: #4AB7BD;
+$yellow:#FEC171;
+$panGreen: #30B08F;
+
+// sidebar
+$menuText:#666666;
+$menuActiveText:$--theme-color;
+$subMenuActiveText:$--theme-color; 
+
+$menuBg:#eeeeee;
+$menuHover:#f3f3f3;
+
+$subMenuBg:#f3f3f3;
+$subMenuHover:#eeeeee;
+
+$sideBarWidth: 210px;
+
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+  themeColor: $--theme-color;
+}
