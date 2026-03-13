@@ -1,5 +1,5 @@
 # qiankun-frame
-基于 vue ， element-ui 的 qiankun 框架， 根据 vue-admin-ui 改写
+基于 vue2 ， element-ui 的 qiankun 框架， 根据 vue-admin-ui 改写
 
 qiankun-main-ui 是qiankun的主应用, 微应用的注册以及外壳逻辑写在这里
 
